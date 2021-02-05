@@ -1074,11 +1074,11 @@ ul li.filter{
     height: 700px;
 }
 
-.youtube-icon{
+.social-icon{
     background:none;
     border-radius: 50%;
 }
 
-.youtube-icon:hover{
+.social-icon:hover{
     background-color:rgba(255, 225, 189, 0.9);
 }
