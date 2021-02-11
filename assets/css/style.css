@@ -925,7 +925,7 @@ service section css
     position: relative;
 }
 .single_work_overlay{
-    background: #FFE1BD;
+    background: rgba(255, 225, 189, 0.5);
     width:80%;
     height: 80%;
     left:10%;
